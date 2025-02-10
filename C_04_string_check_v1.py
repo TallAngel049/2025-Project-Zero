@@ -1,7 +1,7 @@
 # Functions go here
 def string_check(question, valid_ans_list):
     """Check that users enter the full word
-    or the first letter of a work from a list of valid responses"""
+    or the first letter of a word from a list of valid responses"""
 
     while True:
 
